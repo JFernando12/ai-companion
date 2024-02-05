@@ -19,7 +19,7 @@ export const Navbar = () => {
         <MobileSidebar />
         <Link href='/'>
           <h1 className={cn('hidden md:block font-bold text-xl md:text-3xl text-primary', font.className)}>
-            companiion.ia
+            companion.ia
           </h1>
         </Link>
       </div>
